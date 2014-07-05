@@ -1,0 +1,15 @@
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagram\bin\Debug\Anagram.dll
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagram\bin\Debug\Anagram.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagram\obj\Debug\Anagram.dll
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagram\obj\Debug\Anagram.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\Anagram\bin\Debug\Anagram.dll
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\Anagram\bin\Debug\Anagram.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\Anagram\obj\Debug\Anagram.dll
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\Anagram\obj\Debug\Anagram.pdb
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\Anagram\bin\Debug\Anagram.dll
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\Anagram\bin\Debug\Anagram.pdb
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\Anagram\obj\Debug\Anagram.dll
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\Anagram\obj\Debug\Anagram.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\bin\Debug\Anagram.exe
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\bin\Debug\Anagram.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\bin\Debug\nunit.framework.dll
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\obj\Debug\Anagram.exe
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\obj\Debug\Anagram.pdb

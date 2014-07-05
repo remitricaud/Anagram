@@ -1,0 +1,21 @@
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\bin\Debug\AnagramRunner.exe
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\bin\Debug\AnagramRunner.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\bin\Debug\Anagram.dll
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\bin\Debug\Anagram.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\obj\Debug\AnagramRunner.csprojResolveAssemblyReference.cache
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\obj\Debug\AnagramRunner.exe
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagramme\Anagramme\obj\Debug\AnagramRunner.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\AnagramRunner\bin\Debug\AnagramRunner.exe
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\AnagramRunner\bin\Debug\AnagramRunner.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\AnagramRunner\bin\Debug\Anagram.dll
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\AnagramRunner\bin\Debug\Anagram.pdb
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\AnagramRunner\obj\Debug\AnagramRunner.csprojResolveAssemblyReference.cache
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\AnagramRunner\obj\Debug\AnagramRunner.exe
+C:\Users\Aurélie\Documents\SharpDevelop Projects\Anagram\AnagramRunner\obj\Debug\AnagramRunner.pdb
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\AnagramRunner\bin\Debug\AnagramRunner.exe
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\AnagramRunner\bin\Debug\AnagramRunner.pdb
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\AnagramRunner\bin\Debug\Anagram.dll
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\AnagramRunner\bin\Debug\Anagram.pdb
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\AnagramRunner\obj\Debug\AnagramRunner.csprojResolveAssemblyReference.cache
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\AnagramRunner\obj\Debug\AnagramRunner.exe
+C:\A Garder\Remi\SharpDevelop Projects\Anagram\AnagramRunner\obj\Debug\AnagramRunner.pdb
