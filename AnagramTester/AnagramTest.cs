@@ -1,19 +1,9 @@
 ﻿/*
- * Created by SharpDevelop.
- * User: Aurélie
+ * Created by Remi.
  * Date: 25/06/2014
  * Time: 22:45
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
- * renommer répertoires
- * Mettre sous git
- * Revoir coding standards
- * Revoir pour tests non verbeux : lister cas de tests ?
- * Exposer les méthodes anagrammes sous forme de services.
- * Refactoring code.
- * Corriger build pour commencer par le projet Anagram
- * Lier Jenkins, etc.
  */
+ 
 using System;
 using NUnit.Framework;
 using Anagram;

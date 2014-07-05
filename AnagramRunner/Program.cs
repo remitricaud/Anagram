@@ -1,11 +1,9 @@
 ﻿/*
- * Created by SharpDevelop.
- * User: Aurélie
+ * Created by Remi.
  * Date: 25/06/2014
- * Time: 22:35
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
+ * Time: 22:45
  */
+ 
 using System;
 
 namespace Anagram
